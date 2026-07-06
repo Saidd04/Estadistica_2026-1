@@ -24,9 +24,6 @@
 # ----------------------------------------------------------------
 # 1. INSTALAR Y CARGAR PAQUETES
 # ----------------------------------------------------------------
-# Ejecutar esta seccion solo si no tienes instalados los paquetes.
-# install.packages(c("readxl", "dplyr", "ggplot2", "janitor", "epitools",
-#                    "broom", "gtsummary", "writexl", "forcats"))
 
 library(readxl)
 library(dplyr)
