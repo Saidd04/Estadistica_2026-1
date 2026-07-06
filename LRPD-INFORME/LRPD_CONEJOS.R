@@ -24,6 +24,7 @@
 # ----------------------------------------------------------------
 # 1. INSTALAR Y CARGAR PAQUETES
 # ----------------------------------------------------------------
+install.packages("epitools")
 
 library(readxl)
 library(dplyr)
