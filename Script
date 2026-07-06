@@ -1,1 +1,11 @@
+install.packages("epitools")
 
+library(readxl)
+library(dplyr)
+library(ggplot2)
+library(janitor)
+library(epitools)
+library(broom)
+library(gtsummary)
+library(writexl)
+library(forcats)
