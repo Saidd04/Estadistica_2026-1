@@ -2,6 +2,12 @@
 # ANALISIS ESTADISTICO - ENFERMEDAD HEMORRAGICA VIRAL DEL CONEJO
 # Base teorica basada en: Shorunke et al. (2022)
 # Curso: Sistematizacion y Metodos Estadisticos
+# Grupo: 9
+# Integrantes:
+- Marca lobo, Smith
+- Pariona Ucharima, Edson
+- Ripas, David
+- Soto Straub, Said
 # ================================================================
 
 # ----------------------------------------------------------------
