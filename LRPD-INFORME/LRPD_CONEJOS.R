@@ -24,6 +24,7 @@
 # ----------------------------------------------------------------
 # 1. INSTALAR Y CARGAR PAQUETES
 # ----------------------------------------------------------------
+install.packages("epitools")
 
 library(readxl)
 library(dplyr)
@@ -493,25 +494,6 @@ write_xlsx(
   ),
   "resultados_RHD_conejos/04_respuestas_objetivos.xlsx"
 )
-
-# ----------------------------------------------------------------
-# 12. INTERPRETACION GENERAL PARA EL INFORME
-# ----------------------------------------------------------------
-# Guia para interpretar:
-# - Si p < 0.05: existe asociacion estadisticamente significativa.
-# - Si OR > 1: la categoria evaluada tiene mayor odds de presentar RHD.
-# - Si OR < 1: la categoria evaluada tiene menor odds de presentar RHD.
-# - Si el intervalo de confianza del OR incluye el 1, el resultado no es significativo.
-#
-# Ejemplo de redaccion:
-# "Las granjas que usaron agua de lluvia presentaron mayor probabilidad de
-# enfermedad hemorragica viral en comparacion con las que no usaron agua de lluvia.
-# Esta asociacion fue estadisticamente significativa (p < 0.05)."
-#
-# Comparacion con el articulo:
-# El articulo de Shorunke et al. identifico como factores asociados el tamano de
-# granja <=20 conejos, uso de agua de lluvia, origen de animales desde Ado-Ekiti,
-# falta de desinfeccion de herramientas y uso de alimento comercial.
 
 # ----------------------------------------------------------------
 # 13. MENSAJE FINAL
