@@ -4,10 +4,10 @@
 # Curso: Sistematizacion y Metodos Estadisticos
 # Grupo: 9
 # Integrantes:
-- Marca lobo, Smith
-- Pariona Ucharima, Edson
-- Ripas, David
-- Soto Straub, Said
+# Marca lobo, Smith
+# Pariona Ucharima, Edson
+# Ripas, David
+# Soto Straub, Said
 # ================================================================
 
 # ----------------------------------------------------------------
